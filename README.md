@@ -1,7 +1,7 @@
 # TIC-TAC-TOE
 
 
-Demo: https://github.com/Abdulwafa31094/tic-tac-toe-js
+Demo: [wafa-tic-tac-toe.netlify.app](https://wafa-tic-tac-toe.netlify.app/)
 
 ## Description
 This is the simple javascript game in which two player will play the game. In this either X or O can win. 
